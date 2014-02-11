@@ -4,3 +4,5 @@ zlibVersion
 bzlibVersion
 
 
+^.*\.Rproj$
+^\.Rproj\.user$
